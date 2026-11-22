@@ -1,0 +1,20 @@
+[{
+  "_id": 1,
+  "nombre_provincia": "Santiago",
+  "region_id": 1
+},
+{
+  "_id": 2,
+  "nombre_provincia": "Cordillera",
+  "region_id": 1
+},
+{
+  "_id": 3,
+  "nombre_provincia": "Valparaiso",
+  "region_id": 2
+},
+{
+  "_id": 4,
+  "nombre_provincia": "Concepción",
+  "region_id": 3
+}]

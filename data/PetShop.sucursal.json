@@ -1,0 +1,15 @@
+[{
+  "_id": 1,
+  "nombre_sucursal": "Sucursal Casa Central",
+  "comuna_id": 1
+},
+{
+  "_id": 2,
+  "nombre_sucursal": "Sucursal Constanera",
+  "comuna_id": 2
+},
+{
+  "_id": 3,
+  "nombre_sucursal": "Sucursal Mall Marina",
+  "comuna_id": 4
+}]

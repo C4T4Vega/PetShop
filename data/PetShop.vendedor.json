@@ -1,0 +1,28 @@
+[{
+  "_id": 100,
+  "nombre": "Carlos",
+  "apellidos": "Morales Silva",
+  "sueldo": 720000,
+  "sucursal_id": 1
+},
+{
+  "_id": 101,
+  "nombre": "Daniela",
+  "apellidos": "Rojas Castro",
+  "sueldo": 810000,
+  "sucursal_id": 2
+},
+{
+  "_id": 102,
+  "nombre": "Mauricio",
+  "apellidos": "Péres Vega",
+  "sueldo": 690000,
+  "sucursal_id": 3
+},
+{
+  "_id": 103,
+  "nombre": "Carlos",
+  "apellidos": "Gomez Fuentes",
+  "sueldo": 750000,
+  "sucursal_id": 2
+}]

@@ -1,0 +1,90 @@
+[{
+  "_id": "BOL-1001",
+  "fecha": {
+    "$date": "2026-03-01T00:00:00.000Z"
+  },
+  "tipo_documento": "Boleta",
+  "total_neto": 73000,
+  "porcentaje_impuesto": 19,
+  "impuesto": 13870,
+  "total_documento": 86870,
+  "rut_cliente": "17894561-2",
+  "id_vendedor": 100,
+  "canal_id": 1,
+  "detalles": [
+    {
+      "codigo_producto": "14547",
+      "precio_unitario": 3990,
+      "cantidad": 1,
+      "total_linea": 3990,
+      "costo_unitario": 1000
+    }
+  ]
+},
+{
+  "_id": "BOL-1002",
+  "fecha": {
+    "$date": "2026-03-02T00:00:00.000Z"
+  },
+  "tipo_documento": "Boleta",
+  "total_neto": 62000,
+  "porcentaje_impuesto": 19,
+  "impuesto": 11780,
+  "total_documento": 73780,
+  "rut_cliente": "18456123-k",
+  "id_vendedor": 101,
+  "canal_id": 2,
+  "detalles": [
+    {
+      "codigo_producto": "5582",
+      "precio_unitario": 29990,
+      "cantidad": 2,
+      "total_linea": 60000,
+      "costo_unitario": 20000
+    },
+    {
+      "codigo_producto": "14484",
+      "precio_unitario": 15990,
+      "cantidad": 1,
+      "total_linea": 19990,
+      "costo_unitario": 5000
+    },
+    {
+      "codigo_producto": "6872_m",
+      "precio_unitario": 22990,
+      "cantidad": 2,
+      "total_linea": 46000,
+      "costo_unitario": 25000
+    }
+  ]
+},
+{
+  "_id": "FAC-5001",
+  "fecha": {
+    "$date": "2026-03-03T00:00:00.000Z"
+  },
+  "tipo_documento": "Factura",
+  "total_neto": 370000,
+  "porcentaje_impuesto": 19,
+  "impuesto": 70300,
+  "total_documento": 440300,
+  "rut_cliente": "15987321-4",
+  "id_vendedor": 102,
+  "canal_id": 3,
+  "detalles": []
+},
+{
+  "_id": "BOL-1003",
+  "fecha": {
+    "$date": "2026-03-04T00:00:00.000Z"
+  },
+  "tipo_documento": "Boleta",
+  "total_neto": 12000,
+  "porcentaje_impuesto": 19,
+  "impuesto": 2280,
+  "total_documento": 14280,
+  "rut_cliente": "19234876-8",
+  "id_vendedor": 101,
+  "canal_id": 2,
+  "detalles": []
+}]

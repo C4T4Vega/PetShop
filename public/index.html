@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PetShop · Panel</title>
+<link rel="icon" type="image/png" href="/img/logo.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="admin-layout">
+  <aside class="admin-sidebar">
+      <div class="admin-logo">
+          <div class="logo">
+              <img src="../img/logo.png" alt="PetShop logo"/>
+              <h1>PetShop</h1>
+          </div>
+          <span>Panel de control</span>
+      </div>
+    <nav class="admin-menu" id="tabs" aria-label="Secciones"></nav>
+    <div class="admin-pie">
+      <button type="button" id="refresh">Recargar datos</button>
+    </div>
+  </aside>
+  <div class="admin-content">
+    <main class="admin-main">
+      <div class="admin-topbar">
+        <h2 id="title"></h2>
+      </div>
+      <section id="dash" hidden></section>
+      <section id="listPanel" class="admin-panel" hidden>
+        <div class="admin-acciones-top">
+          <input id="q" class="admin-buscador" type="search" placeholder="Buscar…" aria-label="Buscar">
+          <select id="tablaFiltro" hidden aria-label="Filtrar por tabla">
+            <option value="">Todas las tablas</option>
+            <option>VENTA</option>
+            <option>STOCK_SUCURSAL</option>
+            <option>ARTICULO</option>
+            <option>CLIENTE</option>
+            <option>VENDEDOR</option>
+          </select>
+          <button id="add" class="btn-primario" type="button">Nuevo</button>
+        </div>
+        <div class="tabla-scroll">
+          <table id="tbl" class="admin-tabla"></table>
+        </div>
+        <p id="empty" class="tabla-vacia" hidden>No hay documentos para mostrar.</p>
+      </section>
+    </main>
+  </div>
+</div>
+<dialog id="dlg">
+  <form id="frm">
+    <h3 id="dtitle"></h3>
+    <div id="dbody"></div>
+    <p class="formerr" id="ferr" role="alert"></p>
+    <div class="btns">
+      <button type="button" class="btn-sec" id="dcancel">Cerrar</button>
+      <button type="submit" class="btn-primario" id="dok">Guardar</button>
+    </div>
+  </form>
+</dialog>
+<div id="toasts" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

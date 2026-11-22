@@ -1,0 +1,80 @@
+[{
+  "_id": "17894561-2",
+  "nombre": "Matias",
+  "apellido": "Gonzale",
+  "edad": 29,
+  "estado_civil": "Soltero/a",
+  "residencia": "Av. Libertador Bernardo O'Higgins 1234, Santiago"
+},
+{
+  "_id": "18456123-k",
+  "nombre": "Valentina",
+  "apellido": "Tapia",
+  "edad": 27,
+  "estado_civil": "Soltero/a",
+  "residencia": "Av. Providencia 1420, Providencia"
+},
+{
+  "_id": "15987321-4",
+  "nombre": "Felipe",
+  "apellido": "Muñoz",
+  "edad": 36,
+  "estado_civil": "Casado/a",
+  "residencia": "Calle Quillota 450, Viña del Mar"
+},
+{
+  "_id": "19234876-8",
+  "nombre": "Camila",
+  "apellido": "Contreras",
+  "edad": 24,
+  "estado_civil": "Soltero/a",
+  "residencia": "Los Leones 890, Providencia"
+},
+{
+  "_id": "16543219-5",
+  "nombre": "Andrés",
+  "apellido": "Silva",
+  "edad": 33,
+  "estado_civil": "Casado/a",
+  "residencia": "San Diego 654, Santiago Centro"
+},
+{
+  "_id": "20123456-7",
+  "nombre": "Fernanda",
+  "apellido": "Araya",
+  "edad": 22,
+  "estado_civil": "Soltero/a",
+  "residencia": "Álvarez 1122, Viña del Mar"
+},
+{
+  "_id": "14876543-3",
+  "nombre": "Rodrigo",
+  "apellido": "Valenzuela",
+  "edad": 41,
+  "estado_civil": "Divorciado/a",
+  "residencia": "Portugal 320, Santiago Centro"
+},
+{
+  "_id": "18765432-1",
+  "nombre": "Javiera",
+  "apellido": "Navarro",
+  "edad": 28,
+  "estado_civil": "Casado/a",
+  "residencia": "Pedro de Valdivia 1800, Providencia"
+},
+{
+  "_id": "13987654-0",
+  "nombre": "Gonzalo",
+  "apellido": "Sepulveda",
+  "edad": 45,
+  "estado_civil": "Viudo/a",
+  "residencia": "1 Norte 780, Viña del Mar"
+},
+{
+  "_id": "19876543-0",
+  "nombre": "Constanza",
+  "apellido": "Lopez",
+  "edad": 25,
+  "estado_civil": "Conviviente Civil",
+  "residencia": "Santa Isabel 210, Santiago Centro"
+}]

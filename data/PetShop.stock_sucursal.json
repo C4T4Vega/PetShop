@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "sucursal_id": 1,
+    "codigo_producto": "14547"
+  },
+  "cantidad_stock": 50
+},
+{
+  "_id": {
+    "sucursal_id": 1,
+    "codigo_producto": "6872_m"
+  },
+  "cantidad_stock": 20
+},
+{
+  "_id": {
+    "sucursal_id": 2,
+    "codigo_producto": "14547"
+  },
+  "cantidad_stock": 15
+},
+{
+  "_id": {
+    "sucursal_id": 2,
+    "codigo_producto": "6872_m"
+  },
+  "cantidad_stock": 35
+},
+{
+  "_id": {
+    "sucursal_id": 3,
+    "codigo_producto": "14547"
+  },
+  "cantidad_stock": 8
+},
+{
+  "_id": {
+    "sucursal_id": 3,
+    "codigo_producto": "6872_m"
+  },
+  "cantidad_stock": 0
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": 1,
+  "ciudad_comuna": "Santiago Centro",
+  "provincia_id": 1
+},
+{
+  "_id": 2,
+  "ciudad_comuna": "Providencia",
+  "provincia_id": 1
+},
+{
+  "_id": 3,
+  "ciudad_comuna": "Puente Alto",
+  "provincia_id": 2
+},
+{
+  "_id": 4,
+  "ciudad_comuna": "Viña del Mar",
+  "provincia_id": 3
+},
+{
+  "_id": 5,
+  "ciudad_comuna": "Concepción",
+  "provincia_id": 4
+}]

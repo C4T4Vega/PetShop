@@ -1,0 +1,54 @@
+[{
+  "_id": "5582",
+  "nombre": "Desparasitante Nexgard Spectra",
+  "marca": "NexGard",
+  "familia": "Salud",
+  "precio_base": 29990,
+  "peso_valor": null,
+  "unidad_medida": null
+},
+{
+  "_id": "6872_m",
+  "nombre": "Nath Adulto Medium Sabor Pollo y Arroz integral",
+  "marca": "Nath",
+  "familia": "Comida",
+  "precio_base": 22990,
+  "peso_valor": 3,
+  "unidad_medida": "KG"
+},
+{
+  "_id": "652_m",
+  "nombre": "Fit Formula Gato Adulto",
+  "marca": "Fit Formula",
+  "familia": "Comida",
+  "precio_base": 34990,
+  "peso_valor": 10,
+  "unidad_medida": "KG"
+},
+{
+  "_id": "14484",
+  "nombre": "Juguete rinoceronte ultraresistente para perros",
+  "marca": "Tootoy",
+  "familia": "Jueuete",
+  "precio_base": 15990,
+  "peso_valor": null,
+  "unidad_medida": null
+},
+{
+  "_id": "14547",
+  "nombre": "Suava Ball 4,5x4,5,5x13cm surtido",
+  "marca": "Flaminto",
+  "familia": "Juguete",
+  "precio_base": 3990,
+  "peso_valor": null,
+  "unidad_medida": null
+},
+{
+  "_id": "198",
+  "nombre": "Frontline para gato",
+  "marca": "Frountline",
+  "familia": "Salud",
+  "precio_base": 5990,
+  "peso_valor": 0.5,
+  "unidad_medida": "ML"
+}]

@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6b0073c5b61c6f95154f0b44"
+  },
+  "nombre_tabla": "STOCK_SUCURSAL",
+  "operacion": "UPDATE",
+  "usuario": "anonimo",
+  "fecha_operacion": {
+    "$date": "2026-11-20T16:22:29.866Z"
+  },
+  "id_registro": "SUC:1|PROD:14547",
+  "detalle": "Stock modificado. Anterior: 50 -> Nuevo: 40"
+},
+{
+  "_id": {
+    "$oid": "6b0073c5b61c6f95154f0b45"
+  },
+  "nombre_tabla": "STOCK_SUCURSAL",
+  "operacion": "UPDATE",
+  "usuario": "anonimo",
+  "fecha_operacion": {
+    "$date": "2026-11-20T16:22:29.896Z"
+  },
+  "id_registro": "SUC:1|PROD:14547",
+  "detalle": "Stock modificado. Anterior: 40 -> Nuevo: 38"
+},
+{
+  "_id": {
+    "$oid": "6b0073c5b61c6f95154f0b46"
+  },
+  "nombre_tabla": "VENTA",
+  "operacion": "INSERT",
+  "usuario": "anonimo",
+  "fecha_operacion": {
+    "$date": "2026-11-20T16:22:29.933Z"
+  },
+  "id_registro": "N/A",
+  "detalle": "Ejecución de sentencia DML global (Statement Level) sobre la tabla VENTA | Doc BOL-5002"
+}]

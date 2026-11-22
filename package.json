@@ -1,0 +1,17 @@
+{
+  "name": "petshop-web-crud",
+  "version": "1.0.0",
+  "description": "PetShop (BDY1103) - Administración web con CRUD real sobre MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "seed": "node seed.js",
+    "reset": "node seed.js --reset",
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "bson": "^6.8.0"
+  }
+}

@@ -1,0 +1,12 @@
+[{
+  "_id": 1,
+  "nombre_canal": "Venta en Tienda"
+},
+{
+  "_id": 2,
+  "nombre_canal": "Sitio Web"
+},
+{
+  "_id": 3,
+  "nombre_canal": "Call Center"
+}]
