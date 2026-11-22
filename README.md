@@ -14,10 +14,10 @@ Panel administrativo para la gestión de la tienda **PetShop**, con operaciones 
 - Instancia de **MongoDB**
 ## Pasos para ejecutar
 
-1. **Importar la base de datos:** Sube o importa la colección inicial del proyecto a tu instancia de **MongoDB**.
-2.**Instalar dependencias:** En la terminal, dentro de la carpeta del proyecto, ejecuta:
+1. **Importar la base de datos:** Subir o importar la colección inicial del proyecto a la instancia de **MongoDB**.
+2. **Instalar dependencias:** En la terminal, dentro de la carpeta del proyecto, ejecuta:
    ```bash
    npm i
-3.**Ejecutar web:** En terminal ejecutar: 
+3. **Ejecutar web:** En terminal ejecutar: 
    ```bash
    npm start
